@@ -9,7 +9,9 @@ Small POC for rendering a google maps, with a predefined route for an electric v
 
 This poc also uses a dummy backend server, found in the backend/ folder built to load some static info about the charging stations, so a call to an api could be simulated.
 
-![poc image](https://ibb.co/K7Hfynf)
+
+<img width="845" alt="poc-view" src="https://github.com/tunessofia/fleetmanager-electric/blob/master/poc.png">
+
 
 ## Built with
 
