@@ -19,7 +19,7 @@ export const ChargingStationsService = {
         })
             .then(response => {
                 return response.json().then(data => {
-                    localStorage.setItem('stations', JSON.stringify(data.results));
+                    localStorage.setItem('stations', JSON.stringify(data));
                     return data;
                 })
             })
